@@ -2,7 +2,7 @@
 // @description Let pm25.in display AQI level according to US standard instead of CN.
 // @match http://www.pm25.in/*
 // @name pm25.in us std
-// @version 0.0.0
+// @version 0.0.1
 // ==/UserScript==
 
 
